@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mid</string>
+    <string name="countdown">Count Down To Election Day</string>
+    <string name="Days">Days</string>
+    <string name="Hours">Hours</string>
+    <string name="Minutes">Minutes</string>
+    <string name="Seconds">Seconds</string>
+    <string name="Next">Next</string>
+</resources>
